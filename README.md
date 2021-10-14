@@ -2,8 +2,6 @@
 
 Author: Min Young Lee
 
-**Table of Contents**
-
 ## Preface
 This is a cybersecurity project report on a network vulnerability.  There are two parts of this project: the attacker (Red Team) and the victim (Blue Team).  The Red Team is tasked with identifying vulnerabilities in the network and exploiting the found vulnerabilities.  The Blue Team is tasked with detecting malicious activities on the network and mitigating the identified malicious attacks.  
 
