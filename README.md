@@ -55,7 +55,7 @@ Listen to host: 192.168.1.90 & port:4444
 	>cat flag.txt
 
 # Blue Team
-!(https://github.com/ActualSalt/Capstone-Red-vs-Blue-CySec-Report/blob/main/images/brutefoce_evidence.png?raw=true)
+![](https://github.com/ActualSalt/Capstone-Red-vs-Blue-CySec-Report/blob/main/images/brutefoce_evidence.png?raw=true)
 
 ## Vulnerability Analysis 
 ## Hardening
