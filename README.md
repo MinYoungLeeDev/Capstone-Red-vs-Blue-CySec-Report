@@ -64,6 +64,6 @@ Listen to host: 192.168.1.90 & port:4444
 
 # Assessment Summary 
 
-| ** Red Team ** | ** Blue Team ** |
+|  **Red Team** | **Blue Team** |
 | -------------- | --------------- |
 
