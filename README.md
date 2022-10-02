@@ -59,5 +59,10 @@ Listen to host: 192.168.1.90 & port:4444
 ![](https://github.com/ActualSalt/Capstone-Red-vs-Blue-CySec-Report/blob/main/images/identfy_scan.png?raw=true)
 ![](https://github.com/ActualSalt/Capstone-Red-vs-Blue-CySec-Report/blob/main/images/request_hidden_directory.png?raw=true)
 ## Vulnerability Analysis 
-## Hardening
+### Hardening
+
+
 # Assessment Summary 
+| ------------------ | ------------------ |
+| ** Red Team ** | ** Blue Team ** |
+
